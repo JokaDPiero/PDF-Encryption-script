@@ -8,6 +8,7 @@ The required **libraries** are -
 *   **PyPDF2**
 *   **tkinter**
 *   **getpass**
+
 If you don't have the libraries then just use the command -
 ```bash
 pip install library_name
